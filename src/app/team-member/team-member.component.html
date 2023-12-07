@@ -1,0 +1,12 @@
+<div class="card">
+  <div class="avatar-container">
+    <img [src]="member.photo" alt="{{ member.name }}" class="avatar">
+  </div>
+  <div class="details">
+    <h3>{{ member.name }}</h3>
+    <p>
+      <span class="bullet" [style.background-color]="member.color"></span>
+      <span class="role" [style.color]="member.color">{{ member.role }}</span>
+    </p>
+  </div>
+</div>

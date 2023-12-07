@@ -1,0 +1,20 @@
+.team-name {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.team-name h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+}
+
+.team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  
