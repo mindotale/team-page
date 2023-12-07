@@ -8,10 +8,10 @@ import { Component } from '@angular/core';
 export class TeamComponent {
   teamMembers = [
     {
-      name: 'John Doe',
-      role: 'Developer',
+      name: 'Volodymyr Domin',
+      role: '.NET Developer',
       photo: 'assets/team-photos/tm1.jpg',
-      color: '#ffcc00'
+      color: '#cc00ff'
     },
     {
       name: 'John Doe',
