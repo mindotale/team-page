@@ -26,7 +26,7 @@ export class TeamComponent {
       color: '#ffcc00'
     },
     {
-      name: 'John Doe',
+      name: 'Mylhailo Ilnytskyi',
       role: 'Developer',
       photo: 'assets/team-photos/tm4.jpg',
       color: '#ffcc00'
