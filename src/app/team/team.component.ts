@@ -20,8 +20,8 @@ export class TeamComponent {
       color: '#ffcc00'
     },
     {
-      name: 'John Doe',
-      role: 'Developer',
+      name: 'Ira Ivanishak',
+      role: 'Team member',
       photo: 'assets/team-photos/tm3.jpg',
       color: '#ffcc00'
     },
