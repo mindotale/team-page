@@ -10,7 +10,25 @@ export class TeamComponent {
     {
       name: 'John Doe',
       role: 'Developer',
-      photo: 'path/to/photo.jpg',
+      photo: 'assets/team-photos/tm1.jpg',
+      color: '#ffcc00'
+    },
+    {
+      name: 'John Doe',
+      role: 'Developer',
+      photo: 'assets/team-photos/tm2.jpg',
+      color: '#ffcc00'
+    },
+    {
+      name: 'John Doe',
+      role: 'Developer',
+      photo: 'assets/team-photos/tm3.jpg',
+      color: '#ffcc00'
+    },
+    {
+      name: 'John Doe',
+      role: 'Developer',
+      photo: 'assets/team-photos/tm4.jpg',
       color: '#ffcc00'
     }
   ];
