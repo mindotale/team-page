@@ -26,10 +26,10 @@ export class TeamComponent {
       color: '#ffcc00'
     },
     {
-      name: 'John Doe',
-      role: 'Developer',
+      name: 'Volodymyr Ivasiuk',
+      role: 'Blockchain Developer',
       photo: 'assets/team-photos/tm4.jpg',
-      color: '#ffcc00'
+      color: '#444444'
     }
   ];
 }
