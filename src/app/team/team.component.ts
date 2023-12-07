@@ -14,10 +14,10 @@ export class TeamComponent {
       color: '#cc00ff'
     },
     {
-      name: 'John Doe',
-      role: 'Developer',
+      name: 'Volodymyr Ivasiuk',
+      role: 'Blockain Developer',
       photo: 'assets/team-photos/tm2.jpg',
-      color: '#ffcc00'
+      color: '#555555'
     },
     {
       name: 'Ira Ivanishak',
